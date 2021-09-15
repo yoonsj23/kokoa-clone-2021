@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Kokoa Clone 2021
 
-CSS got much better!
+CSS got so much better!
